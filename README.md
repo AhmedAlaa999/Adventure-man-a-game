@@ -22,6 +22,6 @@ Future Plans
 -------
 Add enemies and bosses
 
-Dev
+Developer
 --
 Ahmed Alaa

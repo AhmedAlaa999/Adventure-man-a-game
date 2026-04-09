@@ -1,7 +1,27 @@
-It is My a big project for me like im a new on game dev so enjoy 
------
-controls WASD
+Adventure Man
+-------------
+A choice-based for this names based on a man that discover the open world.
+
+Picture of the Game
+-------------------
+<img width="400" height="262" alt="Screenshot From 2026-04-08 21-24-17" src="https://github.com/user-attachments/assets/66869801-660e-40f8-9887-107fa798c24c" />
+
+Movements
 ---------
-Like there nothing alot like discover only the map
--
-Here it is https://ahmedalaa999.itch.io/adventure-man 
+WASD
+
+How to Play
+--------
+Just Discover the Map, It is a beginner Game for a small developer
+
+PLay
+----
+https://ahmedalaa999.itch.io/adventure-man
+
+Future Plans
+-------
+Add enemies and bosses
+
+Dev
+--
+Ahmed Alaa
